@@ -4,7 +4,7 @@
     <nav class="navbar">
       <div class="nav-content">
         <div class="nav-left">
-          <span class="nav-title">Library</span>
+          <span class="nav-title">Library Vietnam</span>
         </div>
         <div class="nav-links">
           <RouterLink to="/user-home" class="nav-link">Trang chủ</RouterLink>
